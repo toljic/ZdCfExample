@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ZdCfExample",
+    "packageName": "de.zerodefects",
+    "packageFolder": "de/zerodefects",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "YjlmYjg0YjUxM2Y2NGFiOWFlYjdkNDdlOTk4MDRjYWY0YjIzNTAxYmYzZWNkODhjN2Q0ZDRlYjVjMDE5YzkzZGQ5ODc5MmU5YjVkNWU0OTgwZGYzNmRkMDlmMjA2N2QwMTdhZDBkMjhiYjU3NDkyMmE2YjI5Zjk5Njg4OTU5YWI=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "toljic",
+  "repository-name": "ZdCfExample"
+}
